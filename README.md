@@ -28,9 +28,13 @@
 #### Links
 
 **Portfolio**: https://www.qusaifares.com
+
 **LinkedIn**: https://www.linkedin.com/in/qusaifares
+
 **Email**: qusaifares@gmail.com
+
 [Resume](https://qusaifares.com/docs/QusaiFares-SoftwareEngineer-Resume.pdf)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qusaifares)](https://github.com/anuraghazra/github-readme-stats)
 
