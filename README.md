@@ -10,14 +10,18 @@
 
 - HTML5
 - CSS3
+  - Sass
 - JavaScript
   - TypeScript
   - React
-    - Redux
+  - React Native
+  - Redux
+  - Next.js
 
 ##### Back End
 
 - JavaScript
+  - TypeScript
   - Node
   - Express
 - Python
