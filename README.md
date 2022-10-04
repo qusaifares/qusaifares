@@ -20,6 +20,7 @@
 
 ##### Back End
 
+- Java
 - JavaScript
   - TypeScript
   - Node
@@ -39,6 +40,3 @@
 **Email**: qusaifares@gmail.com
 
 [Resume](https://qusaifares.com/docs/QusaiFares-SoftwareEngineer-Resume.pdf)
-
-
-![Profile views](https://gpvc.arturio.dev/qusaifares)
